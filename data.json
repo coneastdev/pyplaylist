@@ -1,0 +1,176 @@
+{
+  "users": [
+    {
+      "name": "defualt",
+      "pass": "qwerty",
+      "gender": "other",
+      "favart": "none",
+      "favgenre": "none",
+      "dob": "1/4/0000",
+      "playlists": []
+    }
+  ],
+  "songs": [
+    {
+      "name": "Everybody Wants to Rule the World",
+      "artist": "Tears for Fears",
+      "genre": "new wave",
+      "length": "261",
+      "link": "https://open.spotify.com/track/4RvWPyQ5RL0ao9LPZeSouE"
+    },
+    {
+      "name": "Sweet Dreams (Are Made of This) remasterd",
+      "artist": "Eurythmics",
+      "genre": "Synth pop",
+      "length": "216",
+      "link": "https://open.spotify.com/track/1TfqLAPs4K3s2rJMoCokcS"
+    },
+    {
+      "name": "Take on me",
+      "artist": "a-ha",
+      "genre": "Synth pop",
+      "length": "225",
+      "link": "https://open.spotify.com/track/2WfaOiMkCvy7F5fcp2zZ8L"
+    },
+    {
+      "name": "africa",
+      "artist": "toto",
+      "genre": "rock",
+      "length": "295",
+      "link": "https://open.spotify.com/track/2374M0fQpWi3dLnB54qaLX"
+    },
+    {
+      "name": "another one bites the dust",
+      "artist": "queen",
+      "genre": "rock",
+      "length": "214",
+      "link": "https://open.spotify.com/track/5vdp5UmvTsnMEMESIF2Ym7"
+    },
+    {
+      "name": "beat it",
+      "artist": "michal jackson",
+      "genre": "rock",
+      "length": "258",
+      "link": "https://open.spotify.com/track/1OOtq8tRnDM8kG2gqUPjAj"
+    },
+    {
+      "name": "blue sky",
+      "artist": "elo",
+      "genre": "80s",
+      "length": "295",
+      "link": "https://open.spotify.com/track/2RlgNHKcydI9sayD2Df2xp"
+    },
+    {
+      "name": "boogie wonderland",
+      "artist": "earth wind and fire",
+      "genre": "disco",
+      "length": "288",
+      "link": "https://open.spotify.com/track/6ztstiyZL6FXzh4aG46ZPD"
+    },
+    {
+      "name": "dont stop me now",
+      "artist": "queen",
+      "genre": "rock",
+      "length": "210",
+      "link": "https://open.spotify.com/track/6e3y6sczcHWehxZo528OZ7"
+    },
+    {
+      "name": "evil woman",
+      "artist": "elo",
+      "genre": "80s",
+      "length": "251",
+      "link": "https://open.spotify.com/track/6HYhjWxB0UK1VJNyi7M8ZC"
+    },
+    {
+      "name": "house of memories",
+      "artist": "panick! at the disco",
+      "genre": "rock",
+      "length": "208",
+      "link": "https://open.spotify.com/track/2DgdHcjWmO3qd50RzuBLgZ"
+    },
+    {
+      "name": "house of the riseing son",
+      "artist": "the animals",
+      "genre": "folk",
+      "length": "269",
+      "link": "https://open.spotify.com/track/4mn2kNTqiGLwaUR8JdhJ1l"
+    },
+    {
+      "name": "if you wanna be happy",
+      "artist": "jimmy soul",
+      "genre": "pop",
+      "length": "143",
+      "link": "https://open.spotify.com/track/7D97JnBT73FWUh9KmRvP9M"
+    },
+    {
+      "name": "never gona give you up",
+      "artist": "rick ashtley",
+      "genre": "80s",
+      "length": "295",
+      "link": "https://www.youtube.com/watch?v=dQw4w9WgXcQ"
+    },
+    {
+      "name": "ocean man",
+      "artist": "ween",
+      "genre": "americanrock",
+      "length": "126",
+      "link": "https://open.spotify.com/track/6M14BiCN00nOsba4JaYsHW"
+    },
+    {
+      "name": "pumped up kicks",
+      "artist": "foster the people",
+      "genre": "Indie pop",
+      "length": "239",
+      "link": "https://open.spotify.com/track/7w87IxuO7BDcJ3YUqCyMTT"
+    },
+    {
+      "name": "rock the boat",
+      "artist": "hues corparation",
+      "genre": "Caribbean",
+      "length": "202",
+      "link": "https://open.spotify.com/track/7fu3Tv5rcoGD1PZV7s57WW"
+    },
+    {
+      "name": "scatman",
+      "artist": "scatman john",
+      "genre": "jazz",
+      "length": "215",
+      "link": "https://open.spotify.com/track/623rRTKwGmgjH6sjE9uWLh"
+    },
+    {
+      "name": "september",
+      "artist": "earth wind & fire",
+      "genre": "funk",
+      "length": "215",
+      "link": "https://open.spotify.com/track/2grjqo0Frpf2okIBiifQKs"
+    },
+    {
+      "name": "seven nation army",
+      "artist": "the white stripes",
+      "genre": "rock",
+      "length": "232",
+      "link": "https://open.spotify.com/track/3dPQuX8Gs42Y7b454ybpMR"
+    },
+    {
+      "name": "staying alive",
+      "artist": "bee gees",
+      "genre": "disco",
+      "length": "285",
+      "link": "https://open.spotify.com/track/5ubvP9oKmxLUVq506fgLhk"
+    },
+    {
+      "name": "telephone line",
+      "artist": "elo",
+      "genre": "rock",
+      "length": "280",
+      "link": "https://open.spotify.com/track/3SPcBPzvbmWLl8NU5efx4W"
+    },
+    {
+      "name": "thats life",
+      "artist": "frank sinatra",
+      "genre": "vocal pop",
+      "length": "187",
+      "link": "https://open.spotify.com/track/4dt6XKr0xKdPzjFhwB8dBm"
+    }
+  ]
+}
